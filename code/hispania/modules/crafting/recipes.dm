@@ -73,7 +73,7 @@
 	category = CAT_WEAPONRY
 	subcategory = CAT_WEAPON
 
-///Knckle///
+///Knuckle///
 /datum/crafting_recipe/knuckle
 	name = "Knuckle"
 	result = list(/obj/item/melee/knuckle)
