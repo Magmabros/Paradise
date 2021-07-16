@@ -75,7 +75,7 @@
 
 ///Knckle///
 /datum/crafting_recipe/knuckle
-	name = "wooden sword"
+	name = "Knuckle"
 	result = list(/obj/item/melee/knuckle)
 	time = 15
 	reqs = list(/obj/item/stack/sheet/metal = 5,
