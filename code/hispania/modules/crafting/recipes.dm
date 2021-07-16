@@ -73,13 +73,14 @@
 	category = CAT_WEAPONRY
 	subcategory = CAT_WEAPON
 
+///Knckle///
 /datum/crafting_recipe/knuckle
 	name = "wooden sword"
 	result = list(/obj/item/melee/knuckle)
 	time = 15
 	reqs = list(/obj/item/stack/sheet/metal = 5,
 				/obj/item/stack/tape_roll = 1)
-	tools = list(TOOL_SCREWDRIVER)
+	tools = list(TOOL_WELDER)
 	category = CAT_WEAPONRY
 	subcategory = CAT_WEAPON
 
