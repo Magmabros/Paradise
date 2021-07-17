@@ -78,7 +78,7 @@
 	name = "Knuckle"
 	result = list(/obj/item/melee/knuckle)
 	time = 15
-	reqs = list(/obj/item/stack/sheet/metal = 5)
+	reqs = list(/obj/item/stack/sheet/plasteel = 5 )
 	tools = list(TOOL_WELDER)
 	category = CAT_WEAPONRY
 	subcategory = CAT_WEAPON
